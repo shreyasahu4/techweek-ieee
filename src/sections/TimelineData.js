@@ -1,6 +1,6 @@
 import rob from "./images/rob.png";
 import webd from "./images/webd.png";
-import chess from "./images/dsa.png";
+import dsa from "./images/dsa.png";
 // import marvel from "./images/marvel.png";
 // import meme from "./images/meme.png";
 // import anime from "./images/anime.png";
