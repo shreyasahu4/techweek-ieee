@@ -5,7 +5,7 @@ import { useScroll } from "../components/useScroll";
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 import { GoPlay } from "react-icons/go";
 import { motion } from "framer-motion";
-import WorkImage from "../assets/work.svg";
+import WorkImage from "../assets/ieee.png";
 import "../styles/sections/Starter.scss";
 import { headerAnimation, imageAnimation } from "../utils/Animations";
 
