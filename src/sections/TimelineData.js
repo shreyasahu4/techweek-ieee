@@ -1,6 +1,6 @@
-// import smashkarts from "./images/smash.png";
+import rob from "./images/rob.png";
 import webd from "./images/webd.png";
-// import chess from "./images/chess.png";
+import chess from "./images/dsa.png";
 // import marvel from "./images/marvel.png";
 // import meme from "./images/meme.png";
 // import anime from "./images/anime.png";
@@ -21,13 +21,13 @@ export const data = [
   {
     heading: "Robotics",
     description: "A Twist to the Game of Chess",
-    // img: chess,
+    img: rob,
     date: "8th Jan, 7pm Onwards",
   },
   {
     heading: "Data Structures and Algorithms",
     description: "A StumbleGuys Tournament",
-    // img: stumbleguys,
+    img: dsa,
     date: "8th Jan, 8pm Onwards",
   },
   {
