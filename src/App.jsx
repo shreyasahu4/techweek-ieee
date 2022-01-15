@@ -1,5 +1,5 @@
 import React from "react";
-import Testimonials from "./sections/Testimonials";
+import Timeline from "./sections/Timeline";
 import About from "./sections/About";
 import Footer from "./sections/Footer";
 import Starter from "./sections/Starter";
@@ -13,7 +13,7 @@ function App() {
       <ScrollToTop />
       <Starter />
       <About />
-      <Testimonials />
+      <Timeline />
       <Blogs />
       <Footer />
     </motion.div>
